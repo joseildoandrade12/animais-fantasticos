@@ -7,6 +7,3 @@ export default function fetchBitcoin(url, target) {
         })
         .catch((erro) => console.log(Error(erro)));
 }
-
-// 
-// 
